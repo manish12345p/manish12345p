@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/12686894754.gif" alt="Hi, I'm Manish Chandra Maity" />
+  <img src="https://github.com/manish12345p/manish12345p/blob/main/banner.jpg?raw=true" alt="Hi, I'm Manish Chandra Maity" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Chandra Maity</h1>
