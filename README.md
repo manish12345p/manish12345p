@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://github.com/manish12345p/manish12345p/blob/main/banner1.jpg?raw=true" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Manish Chandra Maity</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish12345p&label=Profile%20views&color=0e75b6&style=flat" alt="manish12345p" /> </p>
