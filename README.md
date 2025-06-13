@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/12686894754.gif" alt="Hi, I'm Manish Chandra Maity" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Manish Chandra Maity</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
