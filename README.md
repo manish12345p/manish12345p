@@ -3,14 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=manish12345p&label=Profile%20views&color=0e75b6&style=flat" alt="manish12345p" />
 </p>
 
-<p align="center">
-  <strong>A passionate fullstack developer from India 🇮🇳</strong>
-</p>
+<h2 align="center">
+  <strong>A passionate fullstack developer from India </strong>
+</h2>
 
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/manish12345p/manish12345p/blob/main/banner.jpg?raw=true" alt="Profile Banner" />
 </p>
+
 ## 👤 About Me
 
 Hey there! I'm **Manish Chandra Maity**, a first-year **B.Tech CSE (AI)** student at **AKTU**.
@@ -66,13 +67,15 @@ Flutter, Data Structures & Algorithms (DSA)
 
 
 ### 🔗 Connect with Me:
-📧 manishmaity39@gmail.com
 <p align="left">
+  <a href="manishmaity39@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="60" />
+  </a>
   <a href="https://linkedin.com/in/manish-chandra-maity-106a02321" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="60" />
   </a>
   <a href="https://www.leetcode.com/manishmaity39" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="60" />
   </a>
 </p>
 
