@@ -16,7 +16,7 @@
 
 Hey there! I'm **Manish Chandra Maity**, a first-year **B.Tech CSE (AI)** student at **AKTU**.
 
-I’m a curious learner and a hands-on developer who has already built a **App** using **Flutter** — currently exploring **DSA**, backend development, and scalable systems.
+I’m a curious learner and a hands-on developer who has already built an **App** using **Flutter** — currently exploring **DSA**, backend development, and scalable systems.
 
 Some facts about me:
 
