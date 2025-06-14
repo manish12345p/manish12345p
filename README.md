@@ -1,26 +1,78 @@
-<!-- Profile Banner -->
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=manish12345p&label=Profile%20views&color=0e75b6&style=flat" alt="manish12345p" />
+</p>
+
 <p align="center">
-  <img src="https://github.com/manish12345p/manish12345p/blob/main/banner.jpg?raw=true" />
+  <strong>A passionate fullstack developer from India 🇮🇳</strong>
 </p>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish12345p&label=Profile%20views&color=0e75b6&style=flat" alt="manish12345p" /> </p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/manish12345p/manish12345p/blob/main/banner.jpg?raw=true" alt="Profile Banner" />
+</p>
+## 👤 About Me
 
-- 🌱 I’m currently learning **Flutter , DSA**
+Hey there! I'm **Manish Chandra Maity**, a first-year **B.Tech CSE (AI)** student at **AKTU**.
 
-- 📫 How to reach me **manishmaity39@gmail.com**
+I’m a curious learner and a hands-on developer who has already built a **App** using **Flutter** — currently exploring **DSA**, backend development, and scalable systems.
 
-<h3 align="left">Connect with me:</h3>
+Some facts about me:
+
+- 🧑‍💻 I code in **Flutter**, **C**, **Python**, and **Java**
+- 🧠 I prefer building things rather than just learning from tutorials
+- 🗣️ I’m super **extroverted** and love networking and teamwork
+
+I believe in consistency over intensity, and my goal is to keep building, learning, and growing — one commit at a time.
+
+## 🛠️ Languages and Tools:
 <p align="left">
-<a href="https://linkedin.com/in/manish-chandra-maity-106a02321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish chandra maity" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manishmaity39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishmaity39" height="30" width="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish12345p&show_icons=true&locale=en&layout=compact" alt="manish12345p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish12345p&show_icons=true&locale=en" alt="manish12345p" /></p>
+## 🌱 Currently Learning:
+Flutter, Data Structures & Algorithms (DSA)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish12345p&" alt="manish12345p" /></p>
+
+
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manish12345p&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish12345p&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish12345p" alt="GitHub Streak" />
+</p>
+
+
+
+### 🔗 Connect with Me:
+📧 manishmaity39@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/manish-chandra-maity-106a02321" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/manishmaity39" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
