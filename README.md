@@ -69,13 +69,13 @@ Flutter, Data Structures & Algorithms (DSA)
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="mailto:manishmaity39@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="60" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" />
   </a>
   <a href="https://linkedin.com/in/manish-chandra-maity-106a02321" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="60" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="100" />
   </a>
   <a href="https://www.leetcode.com/manishmaity39" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="60" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="100" />
   </a>
 </p>
 
