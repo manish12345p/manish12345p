@@ -64,13 +64,12 @@ Flutter, Data Structures & Algorithms (DSA)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish12345p" alt="GitHub Streak" />
 </p>
 
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" />
 
 
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="mailto:manishmaity39@gmail.com">
-    manishmaity39@gmail.com
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" />
   </a>
   <a href="https://linkedin.com/in/manish-chandra-maity-106a02321" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="100" />
