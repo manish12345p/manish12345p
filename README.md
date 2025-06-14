@@ -75,7 +75,7 @@ Flutter, Data Structures & Algorithms (DSA)
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="100" />
   </a>
   <a href="https://www.leetcode.com/manishmaity39" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="100" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="100" />
   </a>
 </p>
 
