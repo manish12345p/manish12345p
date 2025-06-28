@@ -48,7 +48,7 @@ I believe in consistency over intensity, and my goal is to keep building, learni
 
 
 ## 🌱 Currently Learning:
-Flutter, Data Structures & Algorithms (DSA)
+Flutter, Data Structures & Algorithms (DSA), FastApi
 
 
 
